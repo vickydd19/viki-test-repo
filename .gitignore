@@ -1,1 +1,7 @@
+target
+.classpath
+.setting
+.project
+classes/
+lib/
 .log
